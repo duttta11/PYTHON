@@ -1,4 +1,4 @@
-pesos=int(input("What do you have left in pesos?")) 
+   pesos=int(input("What do you have left in pesos?")) 
 soles=int(input("What do you have left in soles?"))
 reasis=int(input("What do you have left in reais?"))
 usd=(pesos*0.00026+soles*0.30+reasis*0.19)
