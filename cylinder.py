@@ -1,0 +1,6 @@
+r=float(input("enter value of radius"))
+h=float(input("enter value of height"))
+a=(2*3.14*(r**2)+2*3.14*r*h)
+v=(3.14*(r**2)*h)
+print("the area of cylinder is",a)
+print("the volume of cylinder is",v)
