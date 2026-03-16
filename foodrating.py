@@ -1,4 +1,4 @@
-  rating= float(input("enter a enter a rating(1-5)"))
+rating= float(input("enter a enter a rating(1-5)"))
  if rating>4.5:
   print("extraordinary")
 elif rating>4:
