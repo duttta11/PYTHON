@@ -1,6 +1,5 @@
 num = int(input("Enter a number: "))
 
-# Find number of digits
 num_digits = len(str(num))
 
 # Initialize sum
