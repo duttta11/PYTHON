@@ -1,8 +1,6 @@
 num = int(input("Enter a number: "))
 
 num_digits = len(str(num))
-
-# Initialize sum
 sum_of_powers = 0
 
 # Temporary variable
