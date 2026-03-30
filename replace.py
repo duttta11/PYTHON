@@ -1,5 +1,5 @@
-s=input("enter a string")
-t=input("enter a string")
-v=input("enter a string")
+ s=input("enter a string")
+ t=input("enter a string")
+ v=input("enter a string")
 s=s.replace(t,v)
 print(s)
